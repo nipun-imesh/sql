@@ -1,0 +1,7 @@
+INT (numder)
+VARCHAR(sintecs)
+NOT NULL(NO)
+PRIMARY KEY(UNIQUE,NULL) 
+FOREIGN KEY(PRIMARY KEY id)
+DEFAULT(default values)
+DECIMAL(dashamasthana)
